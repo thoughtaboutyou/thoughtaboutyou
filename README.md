@@ -1,5 +1,21 @@
 # [Thought About You][TAY] superproject
 
+
+
+---
+
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
+---
+
+
+
 Other repositories are linked from this superproject for ease of cross project development. For example, pulling, branching, pushing can be done across all repos at the same time, using the `gits` command. For more information, see [gitslave](http://gitslave.sourceforge.net/).
 
 
